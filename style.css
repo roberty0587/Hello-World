@@ -10,27 +10,38 @@ padding: 0 24px;
 .texto-um{
 
 color: #FFA500;
-font-size: 120%;
+font-size: 24px
 
 }
 
 .texto-dois{
 
     color: #FFA500;
-    
+    font-size: 24px;
 
+}
 
+.paragrafo{
+
+    font-size: 20px;
 }
 
 .rodape{
 
 text-align: center;
 display: grid;
+font-size: 24px;
 
 }
 
 .imagem{
 
 width: 60%;
+
+}
+
+.linha{
+border-bottom: 3px solid #808080 ;
+border-top: 3px solid #808080;
 
 }
