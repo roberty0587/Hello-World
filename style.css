@@ -1,0 +1,36 @@
+body{
+background-color: #305050;
+color: white;
+text-align: center;
+padding: 0 24px;
+
+
+}
+
+.texto-um{
+
+color: #FFA500;
+font-size: 120%;
+
+}
+
+.texto-dois{
+
+    color: #FFA500;
+    
+
+
+}
+
+.rodape{
+
+text-align: center;
+display: grid;
+
+}
+
+.imagem{
+
+width: 60%;
+
+}
